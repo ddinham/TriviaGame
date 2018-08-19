@@ -22,7 +22,7 @@ function Quiz(questions, quizContainer, resultsContainer, submitButton){
                 b: '1900',
                 c: '1800'
             },
-            correctAnswer: 'b'
+            correctAnswer: 'c'
         },
         {
             question: "HOW much money did the film for the first Kodak Brownie cost?",
